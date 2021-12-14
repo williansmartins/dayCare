@@ -45,6 +45,14 @@
         "p8": "xxx",
         "p9": "xxx",
         "here": "xxx"
+    },
+    "gallery": {
+        "title": "xxx",
+        "desc": "xxx"
+    },
+    "team": {
+        "title": "xxx",
+        "desc": "xxx."
     }
 
 }
