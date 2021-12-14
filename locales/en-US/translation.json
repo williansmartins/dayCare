@@ -67,7 +67,9 @@
         "subject": "Subject",
         "message": "Your Message",
         "send": "Send E-mail",
-        "or": "Or Contact us ",
+        "or": "Or Contact us",
+        "open": "Open in Google Maps",
+        "get": "Get Directions",
         "we": "We're"
     },
     "xxx4": {
