@@ -79,7 +79,11 @@
         "link2": "Identification and Emergency Form",
         "link3": "Pre Admission Health History LIC-702",
         "link4": "Notification of Parents Right LIC-995A",
-        "link5": "Emergency medical treatment LIC-627C"
+        "link5": "Emergency medical treatment LIC-627C",
+        "contact": "Contact",
+        "routine": "Our Daily Routine",
+        "schools": "School’s Year Holidays (2022)",
+        "daily": "Our Daily Routine"
     },
     "xxx5": {
         "yyy": "zzz"
