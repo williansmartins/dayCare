@@ -60,8 +60,15 @@
         "p1": "This a wonderful family child care. My two kids were at this place and they loved. They provide fresh food, activities outside and inside, all the team  are super loving and friendly. My kids had a good time, I'm so glad they were part of this family for a period of their lives. Thank you Sabrina and family child care. I recommend!!!",
         "p2": "My son has been attending this wonderful bilingual daycare and he has learned so much. The home made food is wonderful and healthy. The mother and daughter, who are the owners and care givers, are real teachers with degrees in early childhood education. If you want your child to feel part of a family and be in a warm and nurturing environment this is the place!!!"
     },
-    "xxx3": {
-        "yyy": "zzz"
+    "contact": {
+        "happy": "Happy to",
+        "name": "Your Name",
+        "id": "Email ID",
+        "subject": "Subject",
+        "message": "Your Message",
+        "send": "Send E-mail",
+        "or": "Or Contact us ",
+        "we": "We're"
     },
     "xxx4": {
         "yyy": "zzz"

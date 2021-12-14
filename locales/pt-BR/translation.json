@@ -59,6 +59,16 @@
     "review": {
         "p1": "xxx",
         "p2": "xxx"
+    },
+    "contact": {
+        "happy": "xxx",
+        "name": "xxx",
+        "id": "xxx",
+        "subject": "xxx",
+        "message": "xxx",
+        "send": "xxx",
+        "or": "xxx",
+        "we": "xxx"
     }
 
 }
