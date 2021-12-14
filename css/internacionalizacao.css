@@ -1,0 +1,35 @@
+.ribbon {
+    position: fixed;
+    z-index: 999;
+    color: transparent;
+}
+
+.ribbon-bandeiras{
+    width: 160px;
+    height: 30px;
+    bottom: 15px;
+    left: 25px;
+    color:white;
+    /*outline: solid 1px red;*/
+    /*background: url(../image/ribbon-treinamentos-amarelo.png) no-repeat 0 0;*/
+  }
+  
+  .ribbon-bandeiras .brasil{
+    /*background: url(../image/internacionalizacao/brasil.png) no-repeat 0 0;*/
+    text-indent: -99999px;
+  }
+  
+  .ribbon-bandeiras .usa{
+    /*background: url(../image/internacionalizacao/usa.png) no-repeat 0 0;*/
+    text-indent: -99999px;
+  }
+  
+  .ribbon-bandeiras ul{
+      margin: 0px;
+      padding: 0px;
+  }
+  
+  .ribbon-bandeiras li{
+      display: inline;
+      margin-left: 4px;
+  }
