@@ -53,6 +53,10 @@
     "team": {
         "title": "xxx",
         "desc": "xxx."
+    },
+    "review": {
+        "p1": "xxx",
+        "p2": "xxx"
     }
 
 }
