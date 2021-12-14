@@ -72,8 +72,14 @@
         "get": "Get Directions",
         "we": "We're"
     },
-    "xxx4": {
-        "yyy": "zzz"
+    "footer": {
+        "enrollment": "Enrollment",
+        "link0": "Waiting List Form",
+        "link1": "Background Check Process LIC-995E",
+        "link2": "Identification and Emergency Form",
+        "link3": "Pre Admission Health History LIC-702",
+        "link4": "Notification of Parents Right LIC-995A",
+        "link5": "Emergency medical treatment LIC-627C"
     },
     "xxx5": {
         "yyy": "zzz"

@@ -71,6 +71,15 @@
         "we": "xxx",
         "open": "xxx",
         "get": "xxx"
+    },
+    "footer": {
+        "enrollment": "xxx",
+        "link0": "xxx",
+        "link1": "xxx",
+        "link2": "xxx",
+        "link3": "xxx",
+        "link4": "xxx",
+        "link5": "xxx"
     }
 
 }
