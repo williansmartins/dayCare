@@ -16,6 +16,8 @@ jQuery(document).ready(function() {
 
     prepararLinksParaScroll();
 
+    preparandoInternacionalizacao();
+
     if($(".swiper-container").length){
         carregarGaleria();
     }
@@ -587,4 +589,44 @@ function carregarGaleria(){
         $('#imagemodal').modal('show');   
         swiper.autoplay.stop();
     });		
+}
+
+function preparandoInternacionalizacao(){
+    // Iniciando a lib i18n
+    i18n.init({
+	    fallbackLng: 'pt-BR' //fallback quando não definir linguagem
+	    ,debug: true //debug do plugin
+	    ,fixLng: true //preserva o cookie quando a linguagem for definida
+	    ,load: 'current' //define a forma correta de declarar linguagens
+	  },
+	  
+	  function(translation) {
+	    $('[data-i18n]').i18n();
+	    var appName = i18next.t('top.license-number');
+
+        console.info(appName);
+	  }
+    );
+
+	  // inglês
+    $('#btn-en').on('click', function() {
+	    i18n.setLng('en-US', {fixLng: true}, function(translation){
+	      	$('[data-i18n]').i18n();
+	      	var $inputs = $(".form-control");
+			$inputs.jqBootstrapValidation();
+	    });
+    });
+
+      // português
+    $('#btn-pt').on('click', function() {
+        i18n.setLng('pt-BR', {fixLng: true}, function(translation){
+            $('[data-i18n]').i18n();
+            var $inputs = $(".form-control");
+            $inputs.jqBootstrapValidation();
+        });
+    });
+
+    i18n.setLng('en-US', {fixLng: true}, function(translation){
+        $('[data-i18n]').i18n();
+    });
 }

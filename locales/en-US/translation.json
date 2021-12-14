@@ -1,0 +1,12 @@
+{
+    "top": {
+        "license-number": "License Number",
+        "menu-home" : "Home",
+        "menu-about-us" : "About Us",
+        "menu-gallery" : "Gallery",
+        "menu-our-team" : "Our Team",
+        "menu-contact-us" : "Contact Us",
+        "menu-enrollment-forms" : "Enrollment Forms",
+        "menu-our-blog" : "Our Blog"
+    }
+}
