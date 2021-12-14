@@ -8,5 +8,43 @@
         "menu-contact-us" : "Contact Us",
         "menu-enrollment-forms" : "Enrollment Forms",
         "menu-our-blog" : "Our Blog"
+    },
+    "color2": {
+        "difference": "Difference",
+        "gallery": "Gallery",
+        "team": "Team",
+        "reviews": "Reviews",
+        "and": "and",
+        "help": "help",
+        "directly": "directly",
+        "social": "Social",
+        "forms": "Forms",
+        "us": "Us",
+        "&": "& Year Calendar",
+        "brazil": "Brazil"
+    },
+    "color1": {
+        "we": "We're making a",
+        "our": "yyy",
+        "some": "yyy",
+        "partners": "yyy",
+        "gallery": "Gallery"
+    },
+    "descriptions": {
+        "we": "\"Our task, regarding creativity, is to help children climb their own mountains, as high as possible. No one can do more.\" -Loris Malaguzzi"
+    },
+    "fun": {
+        "title": "Fun at School",
+        "p1": "At Sabrina's Child Care we believe that it is our responsibility as caregivers and educators to create an environment where children are encouraged to play and to solve problems as they develop cognitive, motor and language skills. We also nurture them socially, emotionally and physically so they are confident and happy. We believe that positive reinforcement is important for children to develop self-esteem. Activities designed to stimulate their senses and natural curiosity, expand on their language development and understanding, and build their fine and gross motor skills will be offered daily.",
+        "p2": "It is our goal to keep your child safe and provide all of our children with the best possible education delivered by motivated, inspirational teachers. We provide children with the tools and resources necessary to explore and discover the world around them while having fun every day. Through hands-on activities, encouragement, exploration and learning, Sabrina's Child Care supports each child's differing abilities.",
+        "p3": "We serve healthy homemade food at Sabrina's Child Care.",
+        "p4": "Check it out the School's Year Holidays",
+        "p5": "Assistance: Potty training.",
+        "p6": "Working Hours:",
+        "p7": "Full-time: 8:00-5:00pm.",
+        "p8": "Part-time: 8:00-1:00pm.",
+        "p9": "Check it out our daily routine",
+        "here": "here"
     }
+
 }

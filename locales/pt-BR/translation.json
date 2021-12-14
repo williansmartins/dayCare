@@ -1,6 +1,6 @@
 {
     "top": {
-        "license-number": "Número da Licença",
+        "license-number": "xxx",
         "menu-home" : "xxx",
         "menu-about-us" : "xxx",
         "menu-gallery" : "xxx",
@@ -8,5 +8,43 @@
         "menu-contact-us" : "xxx",
         "menu-enrollment-forms" : "xxx",
         "menu-our-blog" : "xxx"
+    },
+    "color2": {
+        "difference": "xxx",
+        "gallery": "xxx",
+        "team": "xxx",
+        "reviews": "xxx",
+        "and": "xxx",
+        "help": "xxx",
+        "directly": "xxx",
+        "social": "xxx",
+        "forms": "xxx",
+        "us": "xxx",
+        "&": "xxx",
+        "brazil": "xxx"
+    },
+    "color1": {
+        "we": "xxx",
+        "our": "xxx",
+        "some": "xxx",
+        "partners": "xxx",
+        "gallery": "xxx"
+    },
+    "descriptions": {
+        "we": "xxx"
+    },
+    "fun": {
+        "title": "xxx",
+        "p1": "xxx",
+        "p2": "xxx",
+        "p3": "xxx",
+        "p4": "xxx",
+        "p5": "xxx",
+        "p6": "xxx",
+        "p7": "xxx",
+        "p8": "xxx",
+        "p9": "xxx",
+        "here": "xxx"
     }
+
 }

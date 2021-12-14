@@ -602,9 +602,6 @@ function preparandoInternacionalizacao(){
 	  
 	  function(translation) {
 	    $('[data-i18n]').i18n();
-	    var appName = i18next.t('top.license-number');
-
-        console.info(appName);
 	  }
     );
 
@@ -612,8 +609,6 @@ function preparandoInternacionalizacao(){
     $('#btn-en').on('click', function() {
 	    i18n.setLng('en-US', {fixLng: true}, function(translation){
 	      	$('[data-i18n]').i18n();
-	      	var $inputs = $(".form-control");
-			$inputs.jqBootstrapValidation();
 	    });
     });
 
@@ -621,12 +616,10 @@ function preparandoInternacionalizacao(){
     $('#btn-pt').on('click', function() {
         i18n.setLng('pt-BR', {fixLng: true}, function(translation){
             $('[data-i18n]').i18n();
-            var $inputs = $(".form-control");
-            $inputs.jqBootstrapValidation();
         });
     });
 
-    i18n.setLng('en-US', {fixLng: true}, function(translation){
-        $('[data-i18n]').i18n();
-    });
+    // i18n.setLng('en-US', {fixLng: true}, function(translation){
+    //     $('[data-i18n]').i18n();
+    // });
 }
