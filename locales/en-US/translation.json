@@ -26,7 +26,7 @@
     "color1": {
         "we": "We're making a",
         "our": "Our",
-        "some": "yyy",
+        "some": "Some",
         "partners": "Partners",
         "friends": "Friends",
         "gallery": "Gallery"
@@ -53,6 +53,7 @@
         "desc": "Take a look into our parties, events and more."
     },
     "team": {
+        "our": "Our",
         "title": "Children explore music, movement, math, science, art, language and much more.",
         "desc": "Since living in their native country, Brazil, this mother and daughter team have shared their passion for early childhood education. Neusa and Sabrina have been leaving their mark as educators since 2012 at Sabrina’s Child Care in Cupertino, CA."
     },

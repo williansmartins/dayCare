@@ -1,90 +1,92 @@
 {
     "top": {
-        "license-number": "xxx",
-        "menu-home" : "xxx",
-        "menu-about-us" : "xxx",
-        "menu-gallery" : "xxx",
-        "menu-our-team" : "xxx",
-        "menu-contact-us" : "xxx",
-        "menu-enrollment-forms" : "xxx",
-        "menu-our-blog" : "xxx"
+        "license-number": "Número da licensa",
+        "menu-home" : "Home",
+        "menu-about-us" : "Sobre nós",
+        "menu-gallery" : "Galeria",
+        "menu-our-team" : "Time",
+        "menu-contact-us" : "Contato",
+        "menu-enrollment-forms" : "Formulários",
+        "menu-our-blog" : "Blog"
     },
     "color2": {
-        "difference": "xxx",
-        "gallery": "xxx",
-        "team": "xxx",
-        "reviews": "xxx",
-        "and": "xxx",
-        "help": "xxx",
-        "directly": "xxx",
-        "social": "xxx",
-        "forms": "xxx",
-        "us": "xxx",
-        "&": "xxx",
-        "brazil": "xxx"
+        "difference": "diferença",
+        "gallery": "Galeria",
+        "team": "Time",
+        "reviews": "Depoimentos",
+        "and": "e",
+        "help": "Ajudar",
+        "directly": "conosco",
+        "social": "Redes sociais",
+        "forms": "FORMULÁRIOS DE ",
+        "us": "contato",
+        "&": "CALENDÁRIO DO ANO",
+        "brazil": "Brasil"
     },
     "color1": {
-        "we": "xxx",
-        "our": "xxx",
-        "some": "xxx",
-        "partners": "xxx",
-        "friends": "xxx",
-        "gallery": "xxx"
+        "we": "Nós estamos fazendo a",
+        "our": "NOSSA",
+        "some": "Alguns",
+        "partners": "Parceiros",
+        "friends": "Amigos",
+        "gallery": "Galeria"
     },
     "descriptions": {
-        "we": "xxx",
-        "we-teach": "xxx"
+        "we": "\"Nossa tarefa, a respeito da criatividade, é ajudar as crianças a escalarem suas próprias montanhas, o mais alto possível. Ninguém pode fazer mais.\" - Loris Malaguzzi",
+        "we-teach": "Nós ensinamos nossos alunos diversos idiomas durante todo o dia. Isso inclui o Português, Espanhol e o Inglês."
     },
     "fun": {
-        "title": "xxx",
-        "p1": "xxx",
-        "p2": "xxx",
-        "p3": "xxx",
-        "p4": "xxx",
-        "p5": "xxx",
-        "p6": "xxx",
-        "p7": "xxx",
-        "p8": "xxx",
-        "p9": "xxx",
-        "here": "xxx"
+        "title": "Diversão na escola",
+        "p1": "No Day Care da Sabrina nós acreditamos que é nossa responsabilidade como cuidadores e educadores de criar um ambiente onde as crianças são encorajadas a brincar e a resolver problemas de forma que elas desenvolvam habilidades cognitivas, coordenação motora e linguagem de expressão. Nós também alimentamos elas socialmente, emocionalmente e fisicamente para que elas estejam confiantes e felizes. Nós acreditamos que disciplina positiva é importante para que as crianças desenvolvam auto-estima. Atividades designadas para estimular os sentidos e a curiosidade natural das crianças para expandir seu desenvolvimento de linguagem e compreensão, e construir suas habilidades motoras finas e grossas serão oferecidos diariamente.",
+        "pxxxx": "Nós ensinamos nossos alunos diversos idiomas durante todo o dia. Isso inclui o Português, Espanhol e o Inglês.",
+        "p2": "Nosso objetivo é manter as crianças protegidas e providenciar tudo do melhor para nossas crianças com a melhor educação possível por parte dos nossos professores motivados e inspiradores. Nós providenciamos às crianças ferramentas e recursos necessários para explorarem e descobrirem o mundo envolta delas enquanto se divertem todos os dias. Por meio de atividades práticas, incentivo, exploração e aprendizagem, nossa escola dá suporte às diferentes habilidades de cada criança.",
+        "p3": "Nós servimos comidas saudáveis no Day Care.",
+        "p4": "Dê uma olhada nos feriados anuais",
+        "p5": "Assistência: Desfralde",
+        "p6": "Horário de funcionamento",
+        "p7": "Integral: 8:00-5:00pm",
+        "p8": "Meio período: 8:00-1:00pm",
+        "p9": "Dê uma olhada em nossas atividades diárias",
+        "here": "aqui"
     },
     "gallery": {
-        "title": "xxx",
-        "desc": "xxx"
+        "title": "NÓS CELEBRAMOS A DIVERSIDADE E AO COMPROMETIMENTO À NOSSAS FAMÍLIAS MULTICULTURAIS",
+        "desc": "Dê uma olhada em nossas festas, eventos e muito mais"
     },
     "team": {
+        "our": "Nosso",
         "title": "xxx",
-        "desc": "xxx."
+        "desc": "Desde que viviam em seu país natal, o Brasil, esta equipe de mãe e filha compartilham sua paixão pela educação infantil. Neusa e Sabrina têm deixado sua marca como educadoras desde 2012 no Sabrina’s Child Care em Cupertino, CA."
     },
     "review": {
-        "p1": "xxx",
-        "p2": "xxx"
+        "p1": "Esta é uma escola família maravilhosa. Meus dois filhos estavam lá neste lugar e amavam. Eles forneciam comida fresca, atividades dentro e fora da sala de aula, todo o time são super amáveis e amigáveis. Meus filhos tiveram uma boa experiência, eu sou muito feliz por eles terem feito parte desta família por um período da vida deles. Obrigado Sabrina e família. Eu recomendo!!!",
+        "p2": "Meu filho frequentou esta maravilhosa escola bilíngue e ele aprendeu muito. A comida caseira é maravilhosa e saudável. A mãe e filha, que são as proprietárias e cuidadoras, são realmente professoras com diploma em educação infantil. Se você quer que seu filho se sinta parte de uma família e esteja em um ambiente aconchegante e acolhedor este é o lugar!!!"
     },
     "contact": {
-        "happy": "xxx",
-        "name": "xxx",
-        "id": "xxx",
-        "subject": "xxx",
-        "message": "xxx",
-        "send": "xxx",
-        "or": "xxx",
-        "we": "xxx",
-        "open": "xxx",
-        "get": "xxx"
+        "happy": "FELIZ EM",
+        "name": "Seu nome",
+        "id": "Seu email",
+        "subject": "Assunto",
+        "message": "Mensagem",
+        "send": "enviar",
+        "or": "Ou entre em contato",
+        "open": "Abrir no google maps",
+        "get": "Rota",
+        "we": "Nós estamos nas"
     },
     "footer": {
-        "enrollment": "xxx",
-        "link0": "xxx",
-        "link1": "xxx",
-        "link2": "xxx",
-        "link3": "xxx",
-        "link4": "xxx",
-        "link5": "xxx",
-        "contact": "xxx",
-        "routine": "xxx",
-        "schools": "xxx",
-        "daily": "xxx",
-        "copy": "xxx"
+        "enrollment": "INSCRIÇÃO",
+        "link0": "Formulário de lista de espera",
+        "link1": "Antecedentes Criminais",
+        "link2": "Formulário de identificação e Emergência",
+        "link3": "Histórico Médico de pre inscrição",
+        "link4": "Notificação dos direitos dos pais",
+        "link5": "Tratamento médica de emergência",
+        "contact": "Entre em",
+        "routine": "NOSSAS ATIVIDADES DIÁRIAS &",
+        "schools": "CALENDÁRIO DE FERIADOS 2022",
+        "daily": "Nossas atividades diárias",
+        "copy": "Direitos Autorais"
     }
 
 }
